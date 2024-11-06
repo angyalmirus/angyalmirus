@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at the Faculty of Informatics at ELTE (Budapest)
 - 💞️ I’m looking to develop my skills and deepen my knowledge.
 - 📫 Reach me on Instagram : angyalmyrus
-- ⚡ Fun fact: If you want to win me over buy me goat:)
+- ⚡ Fun fact: If you want to win me over buy me a goat:)
 
 <!---
 angyalmirus/angyalmirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
